@@ -351,3 +351,8 @@ I am open to engineering internships, academic collaborations, and discussions r
 ---
 
 *Engineering intelligent systems — from perception and algorithms to embedded implementation and validation.*
+<div align="center">
+  <img src="assets/github-banner.png"
+       alt="Ayman ADRIOUECH — Robotics and Automotive Engineering"
+       width="100%">
+</div>
