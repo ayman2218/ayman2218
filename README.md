@@ -1,50 +1,33 @@
-<h1 align="center">Ayman Adriouech</h1>
-<p align="center">
-  <b>Élève ingénieur en Robotique & Automobile</b> — Université Euromed de Fès (EIDIA)<br>
-  ROS2 · Edge AI · ADAS · Systèmes embarqués
-</p>
+# Ayman ADRIOUECH
 
-<p align="center">
-  <a href="https://ayman2218.github.io/ayman-adriouech.io/"><img src="https://img.shields.io/badge/Portfolio-e4572e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ayman-adriouech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ayman.adriouech@ueuromed.eidia.org"><img src="https://img.shields.io/badge/E--mail-14181f?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail"></a>
-  <a href="https://ayman2218.github.io/ayman-adriouech.io/assets/CV_Ayman_Adriouech.pdf"><img src="https://img.shields.io/badge/CV-PDF-1f4e8c?style=for-the-badge" alt="CV"></a>
-</p>
+**Robotics & Automotive Engineering Student** | Embedded Software · ADAS · Validation & Test
 
----
+Final-year engineering student at **UEMF — Fès**, graduating in 2027.  
+Seeking a **5–6 month PFE internship from January 2027**, preferably in France or Morocco.
 
-### 👋 À propos
+[**Portfolio website repository**](https://github.com/ayman2218/ayman-adriouech.io) · [LinkedIn](https://www.linkedin.com/in/ayman-adriouech) · [Email](mailto:ayman.adriouech@ueuromed.eidia.org)
 
-Étudiant en 5ᵉ année du cycle ingénieur en Robotique et Automobile, je conçois des **robots autonomes sous ROS2** et j'optimise des **modèles d'IA pour des calculateurs embarqués** soumis à des contraintes temps réel.
+## Areas of interest
 
-- 🎓 Diplôme d'ingénieur prévu en **juillet 2027** (moyenne 17,08/20 en 2025-26)
-- 🎯 Je recherche un **Master 2 en France** (Robotique / IA / Systèmes embarqués) pour **2027-2028**
-- 🚗 Stage PFA chez **LEONI** : architecture électrique zonale, projet SMART CAR (Citroën C3 électrique)
-- 🤖 Stage chez **CleanFlex** : robot de nettoyage autonome (TurtleBot3, ROS2, SLAM)
+- **Automotive:** ADAS, zonal E/E architecture, CAN FD / LIN / Automotive Ethernet, ISO 26262 concepts
+- **Embedded software:** C / C++, Python, MATLAB / Simulink, MBD and MIL / SIL / HIL validation
+- **Autonomous robotics:** ROS 2, Nav2, SLAM, Gazebo, LiDAR and sensor fusion
+- **Edge AI:** OpenCV, TensorFlow, YOLO, Raspberry Pi, pruning and INT8 quantization
 
-### 🚀 Projets phares
+## Project repositories
 
-| Projet | Points clés | Stack |
-|---|---|---|
-| **Compression de modèles IA pour ECU** | Pruning + quantization INT8 + distillation : latence 45,2 → **8,3 ms**, taille ÷5,4, précision 92,5 % | YOLOv5 · TFLite · ARM |
-| **Robot de détection de chutes** | Fall Score géométrique sur squelette MediaPipe, 30 FPS sur Raspberry Pi 5, alertes vers une app Android | ROS · MediaPipe · MQTT |
-| **Chaise robotisée autonome** | SLAM LiDAR, planification Nav2, fusion odométrie + IMU | ROS2 · Nav2 · RViz |
-| **Grass Watch** | Robot agricole virtuel : navigation, téléopération, couverture « lawnmower » | ROS2 · Gazebo · YOLO |
-| **ADAS sur Raspberry Pi** | Détection de panneaux et de franchissement de voie, commande moteur temps réel | CNN · OpenCV |
-| **Logique floue pour ADAS** | Stationnement autonome et suivi de ligne, validés en HIL | Fuzzy · Raspberry Pi 5 |
+| Project | Code |
+|---|---|
+| Fall-detection robot (Python, MediaPipe, Raspberry Pi) | [**fall**](https://github.com/ayman2218/fall) |
+| ROS 2 existing workspace | [**ros2**](https://github.com/ayman2218/ros2) |
+| Other CARLA, PQK, ADAS, robotics projects | Dedicated repositories being prepared; original source code still needs to be added |
 
-### 🛠️ Compétences
+Each published engineering project is intended to have its **own dedicated GitHub repository**. The separate [portfolio repository](https://github.com/ayman2218/ayman-adriouech.io) serves only as a public-facing website and index.
 
-**Langages :** C · C++ · Python · VHDL · Java
-**Robotique & embarqué :** ROS/ROS2 · Nav2 · SLAM · Gazebo · RTOS · Raspberry Pi · ESP32-S3 · FPGA · PIC16F
-**IA & vision :** TensorFlow · OpenCV · MediaPipe · CNN / YOLOv5 · pruning · quantization · knowledge distillation
-**Automobile :** CAN / CAN FD · LIN · Automotive Ethernet · architecture zonale · ISO 26262 · HARA · ASIL
-**Outils :** MATLAB / Simulink · Capital Harness · CATIA V6 · Proteus · Quartus
+## Experience
 
-### 📜 Certifications
+**LEONI (2025–2026):** Electric Citroën C3 E/E zonal architecture, wiring harness engineering and automotive communications. Proprietary source/design files are not shared.
 
-State Estimation and Localization for Self-Driving Cars · Visual Perception for Self-Driving Cars (Univ. of Toronto, Coursera) · ISO 26262 · Scrum Master · QHSE
+**CleanFlex (2025):** Autonomous navigation, ROS 2, LiDAR / IMU / RGB-D sensing.
 
-### 🌍 Langues
-
-Arabe (langue maternelle) · Français (C1) · Anglais (B2) · Espagnol (A2)
+_Research results and simulations do not establish ISO 26262 certification._
