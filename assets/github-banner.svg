@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-label="Ayman ADRIOUECH — Robotics and Automotive Engineering">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071324"/><stop offset=".55" stop-color="#0b2440"/><stop offset="1" stop-color="#091320"/></linearGradient><linearGradient id="accent" x2="1" y2="0"><stop stop-color="#36d5ff"/><stop offset="1" stop-color="#2685ff"/></linearGradient><pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#63baff" stroke-opacity=".09"/></pattern></defs>
+<rect width="1400" height="360" rx="18" fill="url(#bg)"/><rect width="1400" height="360" rx="18" fill="url(#grid)"/>
+<path d="M0 0H14L0 25ZM0 330L450 0H490L0 360Z" fill="#0d67ac" opacity=".15"/>
+<path d="M900 0H1400V360H750Z" fill="#0362a2" opacity=".12"/>
+<path d="M925 0L730 360M1090 0L895 360" stroke="#22b8ff" opacity=".42" stroke-width="3"/>
+<circle cx="1130" cy="181" r="118" fill="none" stroke="#35c5ff" stroke-opacity=".25" stroke-width="2"/><circle cx="1130" cy="181" r="82" fill="none" stroke="#35c5ff" stroke-opacity=".35" stroke-dasharray="7 10"/><circle cx="1130" cy="181" r="45" fill="none" stroke="#35c5ff" stroke-opacity=".5"/>
+<path d="M1010 200h238l-18-42-40-18h-113l-45 18-22 42zm25-41h177m-156-1-11 32m151-32 12 32" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/><circle cx="1061" cy="205" r="19" fill="#0b2440" stroke="#56d8ff" stroke-width="5"/><circle cx="1196" cy="205" r="19" fill="#0b2440" stroke="#56d8ff" stroke-width="5"/>
+<path d="M1130 65v50m-65 66H995m204 0h65m-134 65v50" stroke="#36d5ff" opacity=".45" stroke-dasharray="4 9"/>
+<text x="78" y="91" fill="#75d9ff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="5">ENGINEERING PORTFOLIO</text>
+<text x="74" y="166" fill="#f2f8ff" font-family="Arial,Helvetica,sans-serif" font-size="59" font-weight="700">Ayman <tspan fill="#53c7ff">ADRIOUECH</tspan></text>
+<text x="79" y="222" fill="#e0eeff" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="600">Robotics &amp; Automotive Engineering</text>
+<rect x="79" y="249" width="475" height="2" fill="url(#accent)"/>
+<text x="79" y="286" fill="#c2dbed" font-family="Arial,Helvetica,sans-serif" font-size="19">Embedded Software  ·  ADAS  ·  ROS 2  ·  Edge AI</text>
+<text x="79" y="324" fill="#73b9e5" font-family="Arial,Helvetica,sans-serif" font-size="16">UEMF  |  Final-year engineering student  |  2027</text>
+</svg>
