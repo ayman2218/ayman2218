@@ -1,22 +1,18 @@
-
 <div align="center">
 
-# Ayman ADRIOUECH
+<img src="assets/github-banner.svg" alt="Ayman ADRIOUECH — Robotics and Automotive Engineering" width="100%"/>
 
-### Robotics & Automotive Engineering Student
+<br/>
+
 **Embedded Software · ADAS · Autonomous Robotics · Edge AI**
 
-**Final-Year Engineering Student | UEMF | Class of 2027**
+**🎯 Seeking a 5–6 month PFE internship starting January 2027 | France & Morocco**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-adriouech)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman2218)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayman.adriouech@ueuromed.eidia.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-adriouech)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayman2218)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayman.adriouech@ueuromed.eidia.org)
 
-**Seeking a 5–6 month PFE Internship | January 2027 | France & Morocco**
-
----
-
-### Core Technologies
+<br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,18 +22,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </div>
- 
-# 👨‍💻 Ayman ADRIOUECH
-
-### Robotics & Automotive Engineering | Embedded Systems | ADAS | Artificial Intelligence
-
-**Final-Year Engineering Student — Université Euromed de Fès (UEMF), Morocco**
-
-🚗 Automotive Engineering · ⚙️ Embedded Software · 🤖 Autonomous Robotics · 🧠 Computer Vision & Edge AI
-
-**🎯 Open to a 5–6 month Final-Year Engineering Internship (PFE) starting January 2027 | France & Morocco**
-
-[GitHub](https://github.com/ayman2218) · [LinkedIn](https://www.linkedin.com/in/ayman-adriouech) · [Portfolio](https://ayman2218.github.io/ayman-adriouech.io/) · [Email](mailto:ayman.adriouech@ueuromed.eidia.org)
 
 ---
 
@@ -351,8 +335,3 @@ I am open to engineering internships, academic collaborations, and discussions r
 ---
 
 *Engineering intelligent systems — from perception and algorithms to embedded implementation and validation.*
-<div align="center">
-  <img src="assets/github-banner.png"
-       alt="Ayman ADRIOUECH — Robotics and Automotive Engineering"
-       width="100%">
-</div>
