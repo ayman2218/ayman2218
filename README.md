@@ -1,3 +1,31 @@
+
+<div align="center">
+
+# Ayman ADRIOUECH
+
+### Robotics & Automotive Engineering Student
+**Embedded Software · ADAS · Autonomous Robotics · Edge AI**
+
+**Final-Year Engineering Student | UEMF | Class of 2027**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-adriouech)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/ayman2218)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayman.adriouech@ueuromed.eidia.org)
+
+**Seeking a 5–6 month PFE Internship | January 2027 | France & Morocco**
+
+---
+
+### Core Technologies
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB%2FSimulink-0076A8?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</div>
  
 # 👨‍💻 Ayman ADRIOUECH
 
